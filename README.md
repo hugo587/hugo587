@@ -4,13 +4,13 @@
 # Hugo Vieira
 
 ## Olá pessoal 👋
-Um desenvolvedor em busca de novos desafios.
-Sou um FullStack Developer :computer:
+Um analista de dados em busca de novos desafios.
+Sou um Analista de Dados :computer:
 
  :rocket:  &nbsp; Estou em busca de novos **Horizontes**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com Bootstrap e CSS.
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Angular & Typescript
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em R, Python, PowerBI, Excel, Tableau 
+ <br/> :blush: &nbsp; Posso te ajudar com R e Python.
+ <br/> :computer: &nbsp; Minha stack: R, Python, PowerBI, Tableau & Excel
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Red Dead Redemption(**Minha Paixão**), também sou músico(**Violeiro e cantor** :microphone:) e curto seriados no Netflix e Prime Video
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-HugoVieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-vieira-10019b141/)](https://www.linkedin.com/in/hugo-vieira-10019b141/) 
 | 
